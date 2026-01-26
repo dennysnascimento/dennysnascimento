@@ -1,7 +1,7 @@
 ## Dennys Nascimento
 **Analista de Sistemas | Backend Specialist (Java)**
 
-[cite_start]Desenvolvedor Backend com experiência em sistemas orientados a domínio (DDD) e arquiteturas distribuídas[cite: 2, 39]. Minha atuação é focada em manutenibilidade, observabilidade e performance.
+Desenvolvedor Backend com experiência em sistemas orientados a domínio (DDD) e arquiteturas distribuídas. Minha atuação é focada em manutenibilidade, observabilidade e performance.
 
 Não me prendo a "hype": utilizo a ferramenta certa para o problema, garantindo que a solução seja escalável e pague os custos de infraestrutura e negócio.
 
@@ -9,10 +9,10 @@ Não me prendo a "hype": utilizo a ferramenta certa para o problema, garantindo 
 
 ### 🏛 Experiência e Abordagem Técnica
 
-* [cite_start]**Arquitetura de Software:** Experiência com Clean Architecture, DDD e transição de monolitos para microsserviços[cite: 23, 27, 39].
-* [cite_start]**Alta Disponibilidade e Assincronismo:** Implementação de comunicação assíncrona utilizando Apache Kafka em ecossistemas distribuídos[cite: 24].
-* [cite_start]**Observabilidade:** Configuração de stacks completas de monitoramento (Prometheus, Grafana, Jaeger) e centralização de logs (ELK Stack) para garantir resiliência e rápido troubleshooting[cite: 24, 46, 47].
-* [cite_start]**Dados e Performance:** Forte background em SQL (Oracle/SQL Server), tuning de queries e persistência eficiente[cite: 34, 55].
+* **Arquitetura de Software:** Experiência com Clean Architecture, DDD e transição de monolitos para microsserviços.
+* **Alta Disponibilidade e Assincronismo:** Implementação de comunicação assíncrona utilizando Apache Kafka em ecossistemas distribuídos.
+* **Observabilidade:** Configuração de stacks completas de monitoramento (Prometheus, Grafana, Jaeger) e centralização de logs (ELK Stack) para garantir resiliência e rápido troubleshooting.
+* **Dados e Performance:** Forte background em SQL (Oracle/SQL Server), tuning de queries e persistência eficiente.
 
 ---
 
