@@ -39,7 +39,7 @@ Não me prendo a "hype": utilizo a ferramenta certa para o problema, garantindo 
 ### 📊 Métricas
 
 <div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dennysnascimento&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dennysnascimento&show_icons=true&theme=gotham&count_private=true&hide_border=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennysnascimento&layout=compact&langs_count=6&theme=gotham&hide_border=true"/>
 </div>
 
