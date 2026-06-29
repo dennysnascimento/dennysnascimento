@@ -1,51 +1,74 @@
-## Dennys Nascimento
-**Analista de Sistemas | Backend Specialist (Java)**
+<div align="center">
 
-Desenvolvedor Backend com experiência em sistemas orientados a domínio (DDD) e arquiteturas distribuídas. Minha atuação é focada em manutenibilidade, observabilidade e performance.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ED8B00&height=140&section=header&text=Dennys%20Nascimento&fontSize=36&fontColor=fff&fontAlignY=52&desc=Backend%20Engineer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Recife&descAlignY=75&descSize=14" width="100%"/>
 
-Não me prendo a "hype": utilizo a ferramenta certa para o problema, garantindo que a solução seja escalável e pague os custos de infraestrutura e negócio.
+</div>
 
----
+## Sobre mim
 
-### 🏛 Experiência e Abordagem Técnica
+Desenvolvedor com foco em **backend Java/Spring Boot** e experiência crescente em **full-stack** com React. Trabalho em sistemas orientados a domínio, arquiteturas distribuídas e soluções que precisam aguentar carga e sobreviver à produção.
 
-* **Arquitetura de Software:** Experiência com Clean Architecture, DDD e transição de monolitos para microsserviços.
-* **Alta Disponibilidade e Assincronismo:** Implementação de comunicação assíncrona utilizando Apache Kafka em ecossistemas distribuídos.
-* **Observabilidade:** Configuração de stacks completas de monitoramento (Prometheus, Grafana, Jaeger) e centralização de logs (ELK Stack) para garantir resiliência e rápido troubleshooting.
-* **Dados e Performance:** Forte background em SQL (Oracle/SQL Server), tuning de queries e persistência eficiente.
+Não sigo hype — escolho a ferramenta certa para o problema. Custo de infraestrutura e manutenibilidade são tão importantes quanto entregar a feature.
+
+Atualmente na **NETRA** e construindo o **FPA Race** — plataforma oficial da Fast Pilot Association para gestão de campeonatos de kart e automobilismo.
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Stack
 
-**Core & Frameworks**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
+**Backend**
+
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat&logo=keycloak&logoColor=white)
 
-**Infraestrutura & DevOps**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)
+**Frontend**
 
-**Banco de Dados**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Dados & Infra**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat&logo=apachekafka&logoColor=white)
 
 ---
 
-### 📊 Métricas
+## 🏁 Projeto em destaque
 
-<div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dennysnascimento&show_icons=true&theme=gotham&count_private=true&hide_border=true"/>
+<a href="https://github.com/dennysnascimento/gpcp">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=dennysnascimento&repo=gpcp&theme=gotham&hide_border=true" />
+</a>
+<a href="https://github.com/dennysnascimento/gpcp_front">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=dennysnascimento&repo=gpcp_front&theme=gotham&hide_border=true" />
+</a>
+
+<br clear="left"/>
+
+**FPA Race** — sistema completo (API + SPA) para a Fast Pilot Association. Autódromos, pilotos, campeonatos, importação de resultados MYLAPS, relatórios PDF e autenticação via Keycloak com RBAC por perfil.
+
+---
+
+## 📊 Métricas
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dennysnascimento&show_icons=true&theme=gotham&count_private=true&hide_border=true&include_all_commits=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennysnascimento&layout=compact&langs_count=6&theme=gotham&hide_border=true"/>
 </div>
 
 ---
 
-### 📫 Contato Profissional
+## 📫 Contato
 
-* **LinkedIn:** [linkedin.com/in/dennysnascimento](https://linkedin.com/in/dennysnascimento)
-* **Docker Hub:** [hub.docker.com/u/dennyshnascimento](https://hub.docker.com/u/dennyshnascimento)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dennysnascimento)
+[![Docker Hub](https://img.shields.io/badge/Docker_Hub-0db7ed?style=flat&logo=docker&logoColor=white)](https://hub.docker.com/u/dennyshnascimento)
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ED8B00&height=80&section=footer" width="100%"/>
+</div>
