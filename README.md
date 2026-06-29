@@ -40,26 +40,29 @@ Atualmente na **NETRA** e construindo o **FPA Race** — plataforma oficial da F
 
 ---
 
-## 🏁 Projeto em destaque
+## 🏁 Projeto em destaque — FPA Race
 
-<a href="https://github.com/dennysnascimento/gpcp">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=dennysnascimento&repo=gpcp&theme=gotham&hide_border=true" />
-</a>
-<a href="https://github.com/dennysnascimento/gpcp_front">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=dennysnascimento&repo=gpcp_front&theme=gotham&hide_border=true" />
-</a>
+> Sistema completo de gestão da Fast Pilot Association — autódromos, pilotos, campeonatos, importação MYLAPS, relatórios PDF e autenticação Keycloak com RBAC.
 
-<br clear="left"/>
-
-**FPA Race** — sistema completo (API + SPA) para a Fast Pilot Association. Autódromos, pilotos, campeonatos, importação de resultados MYLAPS, relatórios PDF e autenticação via Keycloak com RBAC por perfil.
+| | Repositório | Stack | Status |
+|---|---|---|---|
+| ⚙️ **API** | [dennysnascimento/gpcp](https://github.com/dennysnascimento/gpcp) | Java 17 · Spring Boot 3.2 · PostgreSQL · Keycloak | [![Deploy](https://github.com/dennysnascimento/gpcp/actions/workflows/deploy.yml/badge.svg)](https://github.com/dennysnascimento/gpcp/actions/workflows/deploy.yml) |
+| 🖥 **Frontend** | [dennysnascimento/gpcp_front](https://github.com/dennysnascimento/gpcp_front) | React 18 · TypeScript · shadcn/ui · Tailwind | [![Deploy](https://github.com/dennysnascimento/gpcp_front/actions/workflows/deploy.yml/badge.svg)](https://github.com/dennysnascimento/gpcp_front/actions/workflows/deploy.yml) |
 
 ---
 
 ## 📊 Métricas
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dennysnascimento&show_icons=true&theme=gotham&count_private=true&hide_border=true&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennysnascimento&layout=compact&langs_count=6&theme=gotham&hide_border=true"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=dennysnascimento&theme=gotham&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennysnascimento&layout=compact&langs_count=8&theme=gotham&hide_border=true&hide=javascript,html,css,shell,dockerfile)
+
 </div>
 
 ---
