@@ -59,6 +59,13 @@ Plataforma de gestao da **Fast Pilot Association** que desenvolvo por conta prop
 
 </div>
 
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dennysnascimento&theme=gotham" alt="Linguagens por repositório" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dennysnascimento&theme=gotham" alt="Linguagens por commit" />
+
+</div>
+
 ---
 
 ## 📫 Contato
