@@ -6,11 +6,9 @@
 
 ## Sobre mim
 
-Desenvolvedor com foco em **backend Java/Spring Boot** e experiência crescente em **full-stack** com React. Trabalho em sistemas orientados a domínio, arquiteturas distribuídas e soluções que precisam aguentar carga e sobreviver à produção.
+Desenvolvedor com foco em **backend Java/Spring Boot** e experiência crescente em **full-stack** com React. Trabalho em sistemas orientados a domínio, arquiteturas distribuídas e soluções que precisam aguentar carga e sobreviver à producao.
 
-Não sigo hype — escolho a ferramenta certa para o problema. Custo de infraestrutura e manutenibilidade são tão importantes quanto entregar a feature.
-
-Atualmente na **NETRA** e construindo o **FPA Race** — plataforma oficial da Fast Pilot Association para gestão de campeonatos de kart e automobilismo.
+Nao sigo hype - escolho a ferramenta certa para o problema. Custo de infraestrutura e manutenibilidade sao tao importantes quanto entregar a feature.
 
 ---
 
@@ -40,28 +38,24 @@ Atualmente na **NETRA** e construindo o **FPA Race** — plataforma oficial da F
 
 ---
 
-## 🏁 Projeto em destaque — FPA Race
+## 🏁 Projeto pessoal - FPA Race
 
-> Sistema completo de gestão da Fast Pilot Association — autódromos, pilotos, campeonatos, importação MYLAPS, relatórios PDF e autenticação Keycloak com RBAC.
+Plataforma de gestao da **Fast Pilot Association** que desenvolvo por conta propria. Cobre o ciclo completo de campeonatos de kart e automobilismo: autódromos, pilotos, resultados MYLAPS, relatórios PDF e controle de acesso por perfil.
 
-| | Repositório | Stack | Status |
-|---|---|---|---|
-| ⚙️ **API** | [dennysnascimento/gpcp](https://github.com/dennysnascimento/gpcp) | Java 17 · Spring Boot 3.2 · PostgreSQL · Keycloak | [![Deploy](https://github.com/dennysnascimento/gpcp/actions/workflows/deploy.yml/badge.svg)](https://github.com/dennysnascimento/gpcp/actions/workflows/deploy.yml) |
-| 🖥 **Frontend** | [dennysnascimento/gpcp_front](https://github.com/dennysnascimento/gpcp_front) | React 18 · TypeScript · shadcn/ui · Tailwind | [![Deploy](https://github.com/dennysnascimento/gpcp_front/actions/workflows/deploy.yml/badge.svg)](https://github.com/dennysnascimento/gpcp_front/actions/workflows/deploy.yml) |
+🔗 **[fparace.com](https://fparace.com)**
+
+| | Repositório | Stack |
+|---|---|---|
+| ⚙️ **API** | [dennysnascimento/gpcp](https://github.com/dennysnascimento/gpcp) | Java 17 - Spring Boot 3.2 - PostgreSQL - Keycloak |
+| 🖥 **Frontend** | [dennysnascimento/gpcp_front](https://github.com/dennysnascimento/gpcp_front) | React 18 - TypeScript - shadcn/ui - Tailwind |
 
 ---
 
-## 📊 Métricas
+## 📊 Metricas
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dennysnascimento&theme=gotham&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennysnascimento&layout=compact&langs_count=8&theme=gotham&hide_border=true&hide=javascript,html,css,shell,dockerfile)
+<img src="https://streak-stats.demolab.com?user=dennysnascimento&theme=gotham&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
 
 </div>
 
