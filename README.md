@@ -46,8 +46,21 @@ Plataforma de gestao da **Fast Pilot Association** que desenvolvo por conta prop
 
 | | Repositório | Stack |
 |---|---|---|
-| ⚙️ **API** | [dennysnascimento/gpcp](https://github.com/dennysnascimento/gpcp) | Java 17 - Spring Boot 3.2 - PostgreSQL - Keycloak |
-| 🖥 **Frontend** | [dennysnascimento/gpcp_front](https://github.com/dennysnascimento/gpcp_front) | React 18 - TypeScript - shadcn/ui - Tailwind |
+| ⚙️ **API** | `gpcp` (privado) | Java 17 - Spring Boot 3.2 - PostgreSQL - Keycloak |
+| 🖥 **Frontend** | `gpcp_front` (privado) | React 18 - TypeScript - shadcn/ui - Tailwind |
+
+---
+
+## 💼 Projeto pessoal - ConexoContábil
+
+Plataforma de **BPO contábil multiempresa** que desenvolvo por conta própria. Cobre o ciclo completo do escritório contábil: notas fiscais, conciliação bancária, plano de contas, folha de pagamento, apuração de impostos (Simples Nacional/Lucro Presumido) e portal do cliente final.
+
+🔗 **[conexocontabil.com.br](https://conexocontabil.com.br)**
+
+| | Repositório | Stack |
+|---|---|---|
+| ⚙️ **API** | `conexocontabil` (privado) | Java 17 - Spring Boot - PostgreSQL - Keycloak |
+| 🖥 **Frontend** | `conexocontabil_front` (privado) | React 18 - TypeScript - shadcn/ui - Tailwind |
 
 ---
 
