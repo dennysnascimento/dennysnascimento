@@ -72,8 +72,6 @@ Plataforma de **BPO contábil multiempresa** que desenvolvo por conta própria. 
 
 </div>
 
-> Boa parte do meu trabalho real é em repositórios privados (FPA Race, ConexoContábil) - se os números acima parecerem baixos, é porque o GitHub só conta contribuição privada aqui se a opção **"Include private contributions on my profile"** estiver ativada em Settings → Profile.
-
 ---
 
 ## 📫 Contato
